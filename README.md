@@ -24,6 +24,16 @@ Three key experiments were designed to systematically assess model behavior unde
 - Demonstrates **overfitting** at lower leaf sizes (≤6).
 - Visualizes **in-sample vs out-of-sample RMSE** across trials.
  
+![Decision Tree Overfitting](assets/Figure1.png)
+
+### 🧪 Experiment 2: Effectiveness of Bagging
+- Uses a 17-bag ensemble of decision learners.
+- Significantly reduces overfitting even at small leaf sizes.
+- Confirms the **bias-smoothing power** of ensemble methods.
+
+![Bag Learner Reduced Overfitting](assets/Figure2.png)
+
+
 
 
 
