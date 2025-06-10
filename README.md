@@ -59,7 +59,7 @@ Three key experiments were designed to systematically assess model behavior unde
 | Query Time           | Not Evaluated (Future Work) | – | – |
 
 ## 📚 References
-[Decision Tree Learning – Wikipedia] (https://en.wikipedia.org/wiki/Decision_tree_learning)
-[Quinlan ID3] (https://link.springer.com/article/10.1007/BF00116251)
+- [Decision Tree Learning – Wikipedia] (https://en.wikipedia.org/wiki/Decision_tree_learning)
+- [Quinlan ID3] (https://link.springer.com/article/10.1007/BF00116251)
 
 
