@@ -33,6 +33,15 @@ Three key experiments were designed to systematically assess model behavior unde
 
 ![Bag Learner Reduced Overfitting](assets/Figure2.png)
 
+### ⚖️ Experiment 3: Decision Tree vs Random Tree
+- Compares **MAE** and **training time** across 100 trials.
+- Decision Trees outperform in accuracy.
+- Random Trees excel in training speed.
+
+![Accuracy Comparison](assets/Figure3.png)
+
+![Performance Comparison](assets/Figure4.png)
+
 
 
 
