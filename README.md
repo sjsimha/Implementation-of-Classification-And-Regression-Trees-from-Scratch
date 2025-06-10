@@ -8,7 +8,7 @@ This project presents implementations of the popular Classification And Regressi
 
 The base Decision Learner implementation is based on an algorithm proposed by Quinlan (1985), known as the "ID3" algorithm. The Random Tree, Bag, and Insane Learners are all based on the base learner. The Insane Learner demonstrates the power combinng and forming complex learners. 
 
-A detailed report including results, findings, and discussion is available [here](assets/report.pdf).
+A detailed report including results, findings, and discussion is available [here](report.pdf).
 
 ## 💡 Motivation
 
