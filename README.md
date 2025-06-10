@@ -17,6 +17,13 @@ Supervised learners like CART are foundational to many predictive analytics syst
 - The efficacy of bagging in reducing overfitting.
 - Trade-offs between prediction accuracy and training performance.
 
+## 🧠 Why It Matters to Industry
+This project illustrates a structured, empirical approach to developing machine learning systems with careful attention to reproducibility, performance trade-offs, and interpretability. For companies building intelligent products or platforms, the insights derived here can help inform:
+
+- Model selection and tuning
+- Ensemble strategy implementation
+- Evaluation frameworks for production-readiness
+
 ## 📊 Experiments & Findings
 
 Three key experiments were designed to systematically assess model behavior under varying configurations:
@@ -51,7 +58,8 @@ Three key experiments were designed to systematically assess model behavior unde
 | Training Time        | Moderate to High   | **Lowest** 🚀     | Highest (multiple learners) |
 | Query Time           | Not Evaluated (Future Work) | – | – |
 
-
-
+## 📚 References
+[Decision Tree Learning – Wikipedia] (https://en.wikipedia.org/wiki/Decision_tree_learning)
+[Quinlan ID3] (https://link.springer.com/article/10.1007/BF00116251)
 
 
