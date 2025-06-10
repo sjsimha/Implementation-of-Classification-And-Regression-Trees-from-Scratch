@@ -1,0 +1,2 @@
+# Implementation-of-Classification-And-Regression-Trees-from-Scratch
+An implementation of the popular Classification And Regression Trees (CART), built from scratch. Four CART algorithms – Classical Decision Learner (Quinlan, 1985),  Random Tree Learner, Bag Learner and an “Insane Learner” are implemented as reusable "classes", and evaluated for relative strengths and weaknesses against popular real world datasets.
