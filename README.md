@@ -37,6 +37,7 @@ Three key experiments were designed to systematically assess model behavior unde
 - Compares **MAE** and **training time** across 100 trials.
 - Decision Trees outperform in accuracy.
 - Random Trees excel in training speed.
+
 ![Accuracy Comparison](assets/Figure3.png)
 
 ![Performance Comparison](assets/Figure4.png)
